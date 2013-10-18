@@ -28,6 +28,7 @@
     "grunt-contrib-connect": "~0.5.0",
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-csslint": "~0.2.0",
+    "grunt-contrib-jade": "~0.8.0",
     "grunt-contrib-jshint": "~0.7.0",
     "grunt-contrib-less": "~0.8.0",
     "grunt-contrib-qunit": "~0.3.0",
@@ -39,7 +40,8 @@
     "grunt-jscs-checker": "~0.2.5",
     "grunt-saucelabs": "~4.1.2",
     "grunt-sed": "~0.1.1",
-    "load-grunt-tasks": "~0.2.0"
+    "load-grunt-tasks": "~0.2.0",
+    "markdown": "~0.5.0"
   },
   "jspm": {
     "main": "js/bootstrap",
